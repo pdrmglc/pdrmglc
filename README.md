@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduado em Biotecnologia e mestrando em Ciências Médicas, com foco em machine learning, estatística e modelagem matemática. Atualmente trabalho na Fiocruz Ceará, integrando tecnologia e ciência para resolver desafios na área da saúde.
+Graduado em Biotecnologia e mestre em Ciências Médicas, com foco em machine learning, estatística e modelagem matemática.
 
 
 ## 🌐 Socials:
